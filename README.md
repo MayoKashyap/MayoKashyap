@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Mayur Kashyap<br>An Applied Math Major at Carnegie Mellon <br>I'm Interested in Machine Learning, Probability, and Mathematical Models
+I'm Mayur Kashyap, an Applied Math Major at Carnegie Mellon. I'm Interested in Machine Learning, Probability, and Mathematical Models
+
+Feel free to reach out at: mayurk@andrew.cmu.edu
 
 
 # 💻 Tech Stack:
